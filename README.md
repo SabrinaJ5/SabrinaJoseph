@@ -1,4 +1,4 @@
-# SabrinaJoseph
+# Sabrina Joseph
 All About Sabrina Joseph
 
 # Hi there! 👋  
@@ -8,8 +8,8 @@ I’m **Sabrina Joseph** 🌟
 - 🔭 Currently exploring the intersection of technology and psychology, focusing on innovative tools for mental health research.  
 
 ### Skills:  
-- Programming: Java, C, Python (currently learning C++)  
-- Tutoring: Grades 3-8, Pre-Algebra, Algebra  
+- Programming: Python, Java, Javascript, C, C++, HTML5, PHP, and SQL
+- Tutoring: Mathematics for Grades 3-8, Pre-Algebra, Algebra  
 - Music: Violinist with 9 years of experience 🎻  
 
 ### Fun Fact:  
